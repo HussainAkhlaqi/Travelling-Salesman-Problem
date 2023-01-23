@@ -1,2 +1,2 @@
 # Travelling-Salesman-Problem
-TSD
+TSp
