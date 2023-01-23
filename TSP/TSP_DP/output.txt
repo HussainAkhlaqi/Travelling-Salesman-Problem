@@ -1,0 +1,10 @@
+Total number of cities: 5
+
+Distance Matrix: 
+0 2 5 7 1 
+6 0 3 8 2 
+8 7 0 4 7 
+12 4 6 0 5 
+1 3 2 8 0 
+
+Minimum Distance Traveled by you is 15
